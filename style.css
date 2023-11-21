@@ -1,0 +1,13 @@
+.beginning {
+    background-image: url(./images/nature-background-24.jpg);
+    height: 70vh;
+}
+.profile {
+    height: 300px;
+    border-radius: 50%;
+  }
+
+.skills{
+    display: flex;
+    justify-content: center;
+}
